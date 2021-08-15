@@ -1,0 +1,13 @@
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.exe
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.deps.json
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.runtimeconfig.json
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.runtimeconfig.dev.json
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.dll
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.pdb
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.csprojAssemblyReference.cache
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.AssemblyInfoInputs.cache
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.AssemblyInfo.cs
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.dll
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.pdb
+C:\Users\elbam\OneDrive\Documents\Study\Year2\Semester B\מבוא למערכות הפעלה\עבודות\עבודה 3\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.genruntimeconfig.cache
