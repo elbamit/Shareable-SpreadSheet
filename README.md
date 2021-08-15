@@ -1,1 +1,2 @@
-# Shearable-SpreadSheet
+# Shareable SpreadSheet
+
