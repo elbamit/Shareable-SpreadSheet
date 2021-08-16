@@ -15,6 +15,7 @@ Simulator of multi-threaded operations on a shared SpreadSheet for OS course in 
 First part of the Shareable SpreadSheet app project - implements an operation simulator on a shared SpreadSheet that can be accessed and modified concurrently by multiple threads. 
 
 ## Technologies
+.NET Core 3.1
 
 ## Supported Operations
 
