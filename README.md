@@ -17,7 +17,7 @@ Simulator of multi-threaded operations on a shared SpreadSheet for OS course in 
 First part of the Shareable SpreadSheet app project - implements an operation simulator on a shared SpreadSheet that can be accessed and modified concurrently by multiple threads.
 Sheet is a two-dimentional array of strings that holds the data. Multiple threads can access the sheet using a series of locks (mutexes and semaphores) to either read/modify data.
 
-The Simulator runs a given number of threads simultaneously, each performing a given number of random operations from the [Supported Operations](#Supported-Operations).
+The Simulator creates and runs a given number of threads simultaneously, each performing a given number of random operations from the [Supported Operations](#Supported-Operations).
 
 ## Technologies
 .NET Core 3.1
