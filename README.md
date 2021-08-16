@@ -43,4 +43,7 @@ The SpreadSheet can handle multiple threads running concurrently and performing 
 
 - Structural operations: Operations that modify the data of multiple cells/entire SpreadSheet. Structural operations are not allowed to run simultaneously because they require the entire SpreadSheet to be "locked". The operations classified as "structural" are: Exchange row/column, Add row/column, Set Concurrent Search Limit, Save, Load.
 
+Every operation type has its own locks, and some locks are used to distinguish the operation type that will run next. Moreover, each type has its own Entry Section and Exit Section that locks/unlocks the correct mutexes and semaphores to allow the critical section of the code to run safely. Different operation types cannot run simultaneously.
+
+![image](https://user-images.githubusercontent.com/66309521/129554906-a0b81151-846d-4251-bbb3-750e17ec917f.png)
 
