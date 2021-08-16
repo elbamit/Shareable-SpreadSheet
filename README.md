@@ -1,5 +1,7 @@
 # Shareable SpreadSheet Simulator
 
+Simulator of multi-threaded operations on a shared SpreadSheet
+
 ![image](https://user-images.githubusercontent.com/66309521/129537715-4fa292e4-837c-4099-b622-ea584662f0c0.png)
 
 
