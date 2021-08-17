@@ -40,7 +40,7 @@ The SpreadSheet can handle multiple threads running concurrently and performing 
 
 - Readers operations: Read-only operations that do not change the data of the sheet. There can be many readers operations that run simultaneously. The operations classified as "readers" are: Get Cell, Search String, Search in row/columns, Search in range, Get Size.
 
-- Writers operations: Operations that modify the data of a single cell of the SpreadSheet. There can be many writers operations that run simultaneously. The only operation classified as "writer" is: Set Cell.
+- Writers operations: Operations that modify the data of a single cell of the SpreadSheet. There can be many writers operations that run simultaneously it only locks the current row that is being handled. The only operation classified as "writer" is: Set Cell.
 
 - Structural operations: Operations that modify the data of multiple cells/entire SpreadSheet. Structural operations are not allowed to run simultaneously because they require the entire SpreadSheet to be "locked". The operations classified as "structural" are: Exchange row/column, Add row/column, Set Concurrent Search Limit, Save, Load.
 
