@@ -2,9 +2,8 @@
 
 Simulator of multi-threaded operations on a shared SpreadSheet for OS course in SISE department of BGU University. Solution for the readers-writers problem.
 
-![image](https://user-images.githubusercontent.com/66309521/129537715-4fa292e4-837c-4099-b622-ea584662f0c0.png)
+![image](https://user-images.githubusercontent.com/66309521/129687922-28ae3aa3-dd45-4904-8490-c7000aeae6d6.png)
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@CHANGE THE PICTURE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 ## Table of Content
